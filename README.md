@@ -5,8 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfilipedev/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfilipedev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&langs_count=7&theme=dracula"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
