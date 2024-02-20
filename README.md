@@ -1,10 +1,10 @@
 ### Olá Eu sou o Gabriel Filipe 🙋🏽‍♂️
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielfilipedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfilipedev/)
 
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielfilipedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfilipedev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
